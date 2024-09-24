@@ -1,0 +1,7 @@
+flask
+crewai
+agentops
+langsmith
+langchain-community
+langchain-openai
+pywin32
